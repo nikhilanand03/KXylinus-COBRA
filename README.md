@@ -4,4 +4,4 @@ This was a project we worked on for simulating the metabolic processes in the K.
 
 The concept behind this project is related to flux-based metabolic modelling. We won the 'best computational model' award at the GOGEC conference through this.
 
-Check out the MATLAB model files. I exclusively worked on multiple models of strain2 in this project, with and without the presence of various metabolites. Using this model, we were able to predict and observe the rate of biomass consumption.
+Check out the MATLAB model files. I worked on multiple models of strain2 in this project, with and without the presence of various metabolites. Using this model, we were able to predict and observe the rate of biomass consumption.
